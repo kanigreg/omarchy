@@ -1,3 +1,4 @@
+CacheServer = http://91.188.214.55:8080
 Server = http://mirror.yandex.ru/archlinux/$repo/os/$arch
 Server = https://mirror.yandex.ru/archlinux/$repo/os/$arch
 Server = http://archlinux.gay/archlinux/$repo/os/$arch
